@@ -1,2 +1,2 @@
-# VenmoCore
-Mini payments ledger - Users with accounts and balances who can transfer to each other
+# myOwnDB
+Building a Database engine from scratch to further my understanding in databases + learn Go along the way
